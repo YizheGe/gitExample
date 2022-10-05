@@ -1,1 +1,2 @@
-YizheGe, yge43, Ge Yizhe
+role, NetID, LastName, FirstName
+Boss, yge43, Ge, Yizhe
